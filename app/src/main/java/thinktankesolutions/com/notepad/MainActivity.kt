@@ -17,7 +17,7 @@ import android.widget.*
 import java.util.ArrayList
 
 class MainActivity : AppCompatActivity() {
-
+    //sample comment
     var listNotes = ArrayList<Note>()
 
     //shared preference
